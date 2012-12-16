@@ -16,7 +16,8 @@ echo $pid2
 renice +10 $pid1
 
 echo "see, PID "$pid1" now (probably) use less 20% CPU"
-top
+ps
+#top
 kill $pid1
 kill $pid2
 

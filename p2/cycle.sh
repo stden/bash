@@ -1,2 +1,5 @@
 #!/bin/bash
-while 
+while :
+do
+i=$[$RANDOM*$RANDOM]
+done
