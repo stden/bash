@@ -28,3 +28,5 @@ echo и вывести в файл пары PID:команда для таких
 # Опция o позволяет указать набор столбцов в ответе:
 #ps -u root u
 ps -u Admin o pid,user,command
+# Linux Ubuntu 
+
